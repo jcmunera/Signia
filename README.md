@@ -52,7 +52,7 @@ Todo funciona **100% offline**, sin enviar datos a ningún servidor.
 ### 1. Clona el repositorio
 
 ```bash
-git clone https://github.com/tu-usuario/signia.git
+git clone https://github.com/jcmunera/Signia.git
 cd signia
 ```
 
