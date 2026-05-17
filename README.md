@@ -75,6 +75,8 @@ pip3.11 install mediapipe opencv-python scikit-learn pyttsx3 --break-system-pack
 
 ## 📖 Uso
 
+![Menu Principal](https://github.com/jcmunera/Signia/blob/main/img/Pantalla-principal.png)
+
 El proyecto tiene **tres fases** que se ejecutan en orden:
 
 ### Fase 1 — Recoger datos de entrenamiento
